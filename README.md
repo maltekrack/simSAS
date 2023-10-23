@@ -3,14 +3,15 @@ Simulation code for a self-adaptive system
 
 This is simSAS, a Matlab tool to simulate a certain self-adaptive system.
 
-REMARKS\\
+REMARKS
+
 For copyright and licensing, see header of m-files.
 If you use simSAS, please refer to the corresponding article(s).
 For details on the theory, please see the articles referenced in the headers of the m-files.
 All technical drawings (including material specifications) and CAD files are provided here: https://doi.org/10.18419/darus-2462.
 Feel free to use those files to reproduce the experiments and/or carry out further reserarch.
 
-INSTRUCTIONS\\
+INSTRUCTIONS
 
 To test simSAS, it is recommended to use publicly avialable experimental data, and compare
 with simulation data:
