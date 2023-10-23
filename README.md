@@ -3,6 +3,7 @@ Simulation code for a self-adaptive system
 
 This is simSAS, a Matlab tool to simulate a certain self-adaptive system.
 
+
 REMARKS
 
 For copyright and licensing, see header of m-files.
@@ -10,6 +11,7 @@ If you use simSAS, please refer to the corresponding article(s).
 For details on the theory, please see the articles referenced in the headers of the m-files.
 All technical drawings (including material specifications) and CAD files are provided here: https://doi.org/10.18419/darus-2462.
 Feel free to use those files to reproduce the experiments and/or carry out further reserarch.
+
 
 INSTRUCTIONS
 
@@ -33,6 +35,9 @@ with simulation data:
 6. Have fun with the tool. Adjust the parameters or the model or the simulation to your 
     needs. 
 
+
 Do not hesitate to contact me if you have any questions.
+
 Malte Krack
+
 (malte.krack@ila.uni-stuttgart.de)
